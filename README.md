@@ -20,3 +20,4 @@
 •	Predicting whether the user will click on ad or not using Reinforcement learning (Upper Confidence bound vs Thomson Sampling)
 •	Created a chatbot using Pytorch (Deep NLP and Autoencoders)
 •	Built Deep Q learning model using Reinforcement learning for frozen lake game
+•	GAN for generating fake images in PyTorch
